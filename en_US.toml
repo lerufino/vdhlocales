@@ -721,3 +721,21 @@ v9_user_message_one_hundred_downloads = "You've downloaded 100 videos!"
 v9_user_message_one_hundred_downloads_body = "We hope you're enjoying Video DownloadHelper :) Would you mind writing a nice review on the addon website?"
 v9_user_message_one_hundred_downloads_leave_review = "Leave a review"
 v9_user_message_one_hundred_downloads_never_show_again = "Don't ask again"
+
+# History
+
+v9_panel_footer_show_history_tooltip = "Show Download History"
+v9_history_page_title = "Your Download History"
+v9_history_button_clear = "Clear History"
+v9_history_button_start_recording = "Remember History"
+v9_history_button_stop_recording = "Do not remembering my history"
+v9_history_no_recording_description = "We do not record your download history. Do you want Video DownloadHelper to remember your download history?"
+v9_history_no_recording_description_safe = "Don't worry, everything stays on your machine. We value your privacy."
+v9_history_no_entries = "No entries yet."
+v9_history_input_search = "Search"
+
+v9_date_today = "today"
+v9_date_yesterday = "yesterday"
+v9_date_x_days_ago = "$1 days ago"
+v9_date_last_week = "last week"
+v9_date_long_ago = "long time ago"
