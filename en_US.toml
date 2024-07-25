@@ -733,6 +733,7 @@ v9_history_no_recording_description = "We do not record your download history. D
 v9_history_no_recording_description_safe = "Don't worry, everything stays on your machine. We value your privacy."
 v9_history_no_entries = "No entries yet."
 v9_history_input_search = "Search"
+v9_settings_history_limit = "Forget download history after X days"
 
 v9_date_today = "today"
 v9_date_yesterday = "yesterday"
