@@ -7,7 +7,7 @@
 #
 # 2. History of Corsican translation:
 #
-# 	- Updated in 2024 by Patriccollu di Santa Maria è Sichè: Feb. 17th (8.2.0.23a1), June 26th (9.0.2.3a1), July 25th (9.0.2.14a1)
+# 	- Updated in 2024 by Patriccollu di Santa Maria è Sichè: Feb. 17th (8.2.0.23a1), June 26th (9.0.2.3a1), Aug. 1st (9.0.2.14a1)
 # 	- Updated in 2023 by Patriccollu di Santa Maria è Sichè: Oct. 4th (8.1.0.0a4) and Dec. 29th (8.1.2.0a2)
 # 	- Updated in 2022 by Patriccollu di Santa Maria è Sichè: Aug. 2nd (7.6.3a5)
 # 	- Updated in 2021 by Patriccollu di Santa Maria è Sichè: July 2nd (7.6.0) and Oct. 20th (7.6.3a1)
@@ -746,5 +746,4 @@ v9_settings_history_limit = "Scurdassi di a cronolugia di i scaricamenti dopu à
 v9_date_today = "oghje"
 v9_date_yesterday = "eri"
 v9_date_x_days_ago = "$1 ghjorni fà"
-v9_date_last_week = "a settimana scorsa"
 v9_date_long_ago = "tempi fà"
