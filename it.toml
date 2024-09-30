@@ -691,7 +691,7 @@ v9_menu_item_blacklist_media = "Media"
 v9_menu_item_blacklist_page = "Pagina"
 v9_menu_item_blacklist_domain = "Dominio"
 
-v9_blacklist_glob = "Usa "*" per una corrispondenza più ampia."
+v9_blacklist_glob = "Usa '*' per una corrispondenza più ampia."
 
 v9_smartnaming_title = "Nominazione intelligente"
 v9_smartnaming_reset_for = "Ripristina per"
